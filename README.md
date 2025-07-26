@@ -18,7 +18,7 @@
   <li>Tested it locally and refined the responsiveness of elements.</li> <br>
 </ul>
 
-<h2>Future Improvements</h2>
+<h2>Future Improvements</h2><br>
 <ul>
   <li>Dynamic playlist rendering from a database or external JSON file</li><br>
   <li>Display real-time song duration and elapsed time</li><br>
