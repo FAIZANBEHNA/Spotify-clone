@@ -1,5 +1,5 @@
-<h1>Spotify Clone - Music Player Web App</h1><br><br>
-<p>This is a simple web-based music player inspired by Spotify’s UI. I created this project to practice front-end development, especially DOM manipulation, audio control, layout structuring, and UI styling using HTML, CSS, and JavaScript. It’s a static web application that plays a set of pre-listed songs with features like play/pause, progress tracking, and an intuitive interface.</p>
+<h1>Spotify Clone - Music Player Web App</h1><br>
+<p>This is a simple web-based music player inspired by Spotify’s UI. I created this project to practice front-end development, especially DOM manipulation, audio control, layout structuring, and UI styling using HTML, CSS, and JavaScript. It’s a static web application that plays a set of pre-listed songs with features like play/pause, progress tracking, and an intuitive interface.</p><br>
 
 <h2>Technologies Used</h2><br>
 <ul>
