@@ -1,4 +1,6 @@
-<h1 style="text-align:center">Spotify Clone - Music Player Web App</h1>
+<h1 style="text-align:center; font-family: 'Cinzel', serif; margin-top: 20px; color: #1DB954;">
+    Spotify Clone - Music Player Web App
+</h1>
 <p>This is a simple web-based music player inspired by Spotify’s UI. I created this project to practice front-end development, especially DOM manipulation, audio control, layout structuring, and UI styling using HTML, CSS, and JavaScript. It’s a static web application that plays a set of pre-listed songs with features like play/pause, progress tracking, and an intuitive interface.</p>
 
 <h2>Technologies Used</h2>
